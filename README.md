@@ -56,8 +56,9 @@
 ###
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=eldenhard&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=eldenhard&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 ###
 
