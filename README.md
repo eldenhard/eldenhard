@@ -60,6 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eldenhard&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <div align="center">
-  <img alt="Codewars badge" src="https://www.codewars.com/users/eldenhard/badges/micro">
+  <img alt="Codewars badge" src="https://www.codewars.com/users/eldenhard/badges/large">
 </div>
 ###
