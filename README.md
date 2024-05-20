@@ -41,11 +41,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="pinia logo"  />
+  <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
 </div>
 
