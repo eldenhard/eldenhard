@@ -53,10 +53,10 @@
 
 <h3 align="left">🔥   Моя статистика :</h3>
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+
 </div>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eldenhard&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eldenhard&hide_border=true&locale=ru&type=png" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eldenhard&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
