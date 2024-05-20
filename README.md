@@ -53,7 +53,7 @@
 
 <h3 align="left">🔥   Моя статистика :</h3>
 <div align="center">
-
+<img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eldenhard&theme=dark&hide_border=&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=eldenhard&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
